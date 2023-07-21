@@ -1,2 +1,2 @@
 # Data Visualization 
- A collection of matplotlib examples notebooks with accompanying notes and comments. 
+A collection of examples and notes on data visualization in Python using matplotlib, seaborn, and more.
